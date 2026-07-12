@@ -1,22 +1,22 @@
 [
   {
     "name": "FullControlMTG Website",
-    "url": "https://www.fullcontrolmtg.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.fullcontrolmtg.com.ico",
+    "url": "https://fullcontrolmtg.com",
+    "icon": "https://icons.duckduckgo.com/ip3/fullcontrolmtg.com.ico",
     "slug": "full-control-mtg-website",
-    "status": "down",
-    "uptime": "63.27%",
-    "uptimeDay": "63.27%",
-    "uptimeWeek": "63.27%",
-    "uptimeMonth": "63.27%",
-    "uptimeYear": "63.27%",
-    "time": 301,
-    "timeDay": 301,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "status": "up",
+    "uptime": "3.09%",
+    "uptimeDay": "3.09%",
+    "uptimeWeek": "3.09%",
+    "uptimeMonth": "3.09%",
+    "uptimeYear": "3.09%",
+    "time": 380,
+    "timeDay": 380,
+    "timeWeek": 380,
+    "timeMonth": 380,
+    "timeYear": 380,
     "dailyMinutesDown": {
-      "2026-07-12": 0
+      "2026-07-12": 8
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 747,
-    "timeWeek": 747,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "time": 792,
+    "timeDay": 792,
+    "timeWeek": 792,
+    "timeMonth": 792,
+    "timeYear": 792,
     "dailyMinutesDown": {}
   }
 ]
