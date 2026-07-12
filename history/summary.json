@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/fullcontrolmtg.com.ico",
     "slug": "full-control-mtg-website",
     "status": "up",
-    "uptime": "3.09%",
-    "uptimeDay": "3.09%",
-    "uptimeWeek": "3.09%",
-    "uptimeMonth": "3.09%",
-    "uptimeYear": "3.09%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 380,
     "timeDay": 380,
     "timeWeek": 380,
     "timeMonth": 380,
     "timeYear": 380,
-    "dailyMinutesDown": {
-      "2026-07-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FullControlMTG Cube Tracker Website",
