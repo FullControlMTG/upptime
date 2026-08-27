@@ -4,19 +4,20 @@
     "url": "https://fullcontrolmtg.com",
     "icon": "https://icons.duckduckgo.com/ip3/fullcontrolmtg.com.ico",
     "slug": "full-control-mtg-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 277,
-    "timeDay": 149,
-    "timeWeek": 270,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "69.82%",
+    "uptimeWeek": "95.69%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.34%",
+    "time": 276,
+    "timeDay": 213,
+    "timeWeek": 244,
     "timeMonth": 271,
-    "timeYear": 277,
+    "timeYear": 276,
     "dailyMinutesDown": {
-      "2026-08-26": 5
+      "2026-08-27": 8,
+      "2026-08-26": 427
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://cube.fullcontrolmtg.com",
     "icon": "https://icons.duckduckgo.com/ip3/cube.fullcontrolmtg.com.ico",
     "slug": "full-control-mtg-cube-tracker-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 70,
-    "timeWeek": 198,
-    "timeMonth": 199,
-    "timeYear": 336,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "70.16%",
+    "uptimeWeek": "95.74%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.35%",
+    "time": 331,
+    "timeDay": 101,
+    "timeWeek": 178,
+    "timeMonth": 188,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2026-08-26": 0
+      "2026-08-27": 8,
+      "2026-08-26": 422
     }
   }
 ]
